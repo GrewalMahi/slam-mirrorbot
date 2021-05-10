@@ -21,7 +21,7 @@ class _BotCommands:
         self.WatchCommand = 'watch2'
         self.TarWatchCommand = 'tarwatch2'
         self.DeleteCommand = 'del2'
-        self.UsageCommand = 'usage2'
+        
       
 
 BotCommands = _BotCommands()
